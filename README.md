@@ -1,6 +1,6 @@
-# LnxCT_Training
-Its all about Train Developers On Linux,Python,Devops,and Cloud Technology.
-
+# Training by LnxCT Company
+Training On Linux,Python,Devops,and Cloud Technology.
+Main URL = https://github.com/lnxct/LnxCT_Training
 
 #### Table of contents
 
